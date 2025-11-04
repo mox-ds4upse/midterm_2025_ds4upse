@@ -3,12 +3,9 @@
 ---
 ## Overview 
 
-This midterm exam will assess your ability to perform **exploratory data analysis (EDA)** and communicate findings through clear visual and written narratives.  
-You will use the **Demographic and Health Surveys (DHS)** Phase 7 *Birth Recode (BR)* datasets from several Southeast Asian countries.
+This midterm exam will assess your ability to perform **exploratory data analysis (EDA)** and communicate findings through clear visual and written narratives. You will use the **Demographic and Health Surveys (DHS)** Phase 7 *Birth Recode (BR)* datasets from several Southeast Asian countries.
 
-Your goal is to investigate:  
-
-How do maternal and child health outcomes differ across Southeast Asian countries, and what socio-economic factors explain these differences?
+Your goal is to investigate: How do maternal and child health outcomes differ across Southeast Asian countries, and what socio-economic factors explain these differences?
 
 ---
 
